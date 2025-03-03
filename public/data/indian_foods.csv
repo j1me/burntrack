@@ -1,0 +1,96 @@
+name,calories,servingSize,servingUnit,protein,carbs,fat,isCustom
+Chapati,120,1,piece,3,20,2.7,false
+Naan,260,1,piece,9,40,7,false
+Paratha,330,1,piece,7,33,18,false
+Basmati Rice,150,100,g,3.5,30,0.5,false
+Jeera Rice,170,100,g,3.5,32,2,false
+Dal Makhani,230,100,g,9,20,12,false
+Dal Tadka,150,100,g,9,18,5,false
+Chana Masala,240,100,g,8,30,10,false
+Rajma,170,100,g,9,20,5,false
+Paneer Butter Masala,350,100,g,15,10,28,false
+Palak Paneer,260,100,g,14,8,20,false
+Matar Paneer,280,100,g,12,15,18,false
+Aloo Gobi,160,100,g,4,20,7,false
+Baingan Bharta,140,100,g,3,15,8,false
+Bhindi Masala,150,100,g,4,12,10,false
+Butter Chicken,320,100,g,25,8,20,false
+Chicken Tikka Masala,290,100,g,24,10,17,false
+Chicken Biryani,250,100,g,15,30,8,false
+Vegetable Biryani,200,100,g,5,35,5,false
+Tandoori Chicken,165,100,g,25,2,6,false
+Seekh Kebab,220,100,g,20,3,15,false
+Samosa,260,1,piece,4,30,14,false
+Pakora,150,50,g,3,15,9,false
+Idli,40,1,piece,2,8,0.1,false
+Dosa,120,1,piece,3,20,3,false
+Masala Dosa,250,1,piece,5,30,10,false
+Uttapam,200,1,piece,5,25,8,false
+Vada,150,1,piece,4,15,8,false
+Sambhar,100,100,g,4,15,3,false
+Coconut Chutney,130,30,g,2,5,12,false
+Raita,70,100,g,3,5,4,false
+Gulab Jamun,150,1,piece,2,25,5,false
+Jalebi,150,1,piece,1,30,4,false
+Rasmalai,180,1,piece,5,20,8,false
+Kheer,160,100,g,4,25,5,false
+Gajar Ka Halwa,150,50,g,2,20,7,false
+Ladoo,170,1,piece,3,25,7,false
+Barfi,130,1,piece,3,20,5,false
+Pani Puri,40,1,piece,1,8,0.5,false
+Bhel Puri,180,100,g,5,30,5,false
+Pav Bhaji,250,1,plate,8,35,10,false
+Chole Bhature,450,1,plate,15,50,20,false
+Dhokla,160,100,g,5,20,7,false
+Khandvi,100,100,g,4,15,3,false
+Upma,180,100,g,5,30,4,false
+Poha,270,100,g,4,40,10,false
+Parsi Dhansak,300,100,g,15,25,15,false
+Malai Kofta,320,100,g,8,20,24,false
+Kadai Paneer,300,100,g,14,10,22,false
+Shahi Paneer,330,100,g,15,8,26,false
+Aloo Paratha,330,1,piece,7,45,12,false
+Gobi Paratha,310,1,piece,7,40,13,false
+Methi Paratha,290,1,piece,7,38,12,false
+Lachha Paratha,350,1,piece,7,42,15,false
+Rogan Josh,320,100,g,25,5,22,false
+Chicken Korma,280,100,g,22,8,18,false
+Fish Curry,200,100,g,20,5,12,false
+Prawn Curry,180,100,g,18,5,10,false
+Lamb Biryani,300,100,g,20,30,12,false
+Egg Curry,180,100,g,12,5,13,false
+Keema Matar,220,100,g,18,10,12,false
+Chicken Tikka,165,100,g,25,2,6,false
+Tandoori Fish,160,100,g,22,2,7,false
+Lassi,120,200,ml,4,15,4,false
+Mango Lassi,180,200,ml,4,30,4,false
+Masala Chai,80,200,ml,2,12,2,false
+Nimbu Pani,50,200,ml,0,12,0,false
+Jal Jeera,40,200,ml,0,10,0,false
+Aam Panna,90,200,ml,0,22,0,false
+Thandai,200,200,ml,5,25,8,false
+Kulfi,220,1,piece,5,25,12,false
+Falooda,300,200,ml,5,50,8,false
+Kachori,180,1,piece,4,20,10,false
+Aloo Tikki,150,1,piece,3,20,7,false
+Dahi Vada,150,1,piece,5,15,7,false
+Misal Pav,350,1,plate,12,45,12,false
+Vada Pav,270,1,piece,8,35,10,false
+Dabeli,250,1,piece,6,35,9,false
+Ragda Pattice,300,1,plate,8,40,12,false
+Pav Bhaji,350,1,plate,10,45,15,false
+Puran Poli,300,1,piece,6,50,8,false
+Modak,180,1,piece,2,35,4,false
+Shrikhand,220,100,g,5,30,10,false
+Basundi,200,100,g,5,25,10,false
+Mysore Pak,200,1,piece,3,25,10,false
+Kaju Katli,150,1,piece,4,15,8,false
+Rasgulla,120,1,piece,2,25,2,false
+Sandesh,130,1,piece,4,20,4,false
+Chaat Papdi,200,1,plate,4,30,7,false
+Dahi Puri,180,1,plate,5,25,6,false
+Sev Puri,200,1,plate,5,30,7,false
+Ragda Puri,220,1,plate,6,32,8,false
+Aloo Chaat,180,1,plate,3,25,8,false
+Fruit Chaat,120,1,plate,2,25,2,false
+Dahi Bhalla,200,1,plate,6,25,8,false 
